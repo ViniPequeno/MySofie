@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sofie</string>
+
+    <string name="textList">Tarefas</string>
+    <string name="newTask">Nova Tarefa</string>
+    <string name="email">Email</string>
+    <string name="nomeTarefa">Nome da tarefa</string>
+    <string name="descricaoTarefa">Descrição da tarefa</string>
+</resources>
